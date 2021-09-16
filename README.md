@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @laurapessine and I'm 15 years old
+- 👋 Hi, I’m <a href="https://github.com/laurapessine">@laurapessine</a> and I'm 15 years old
 - 👀 I’m interested in data science and AI
 - 🌱 I’m currently learning Java, PHP and MySQL
 - 💡 Doing a scientific initiation in supervised machine learning applied to health
@@ -27,6 +27,7 @@
 ##
 
 <div>
-  <a href="https://www.youtube.com/channel/UCQncrlvlbd1kGjCgKInUIIw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/laurapessine" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCQncrlvlbd1kGjCgKInUIIw" target="_blank"><img src="https://img.shields.io/badge/YouTube-Ca2a2c?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/laurapessine" target="_blank"><img src="https://img.shields.io/badge/-Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discordapp.com/users/706933445690916916/" target="_blank"><img src="https://img.shields.io/badge/-Discord-586AEA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
