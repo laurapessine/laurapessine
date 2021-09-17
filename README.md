@@ -1,7 +1,9 @@
+<img src="cover_image.png">
+
 - 👋 Hi, I’m <a href="https://github.com/laurapessine">@laurapessine</a> and I'm 15 years old
 - 👀 I’m interested in data science and AI
 - 🌱 I’m currently learning Java, PHP and MySQL
-- 💡 Doing a scientific initiation in supervised machine learning applied to health
+- 💡 I'm doing a scientific research on supervised machine learning applied to health
 - 😄 Pronouns: she/her or they/them
 
 #
