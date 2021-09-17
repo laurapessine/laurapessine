@@ -1,4 +1,4 @@
-<img src="cover_image.png">
+<img src="cover-image.png">
 
 - 👋 Hi, I’m <a href="https://github.com/laurapessine">@laurapessine</a> and I'm 15 years old
 - 👀 I’m interested in data science and AI
