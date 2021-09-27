@@ -4,7 +4,6 @@
 - 👀 I’m interested in data science and AI
 - 🌱 I’m currently learning Java, PHP and MySQL
 - 💡 I'm doing a scientific research on supervised machine learning applied to health
-- 💻 The IDEs I use are PyCharm, Eclipse and Sublime Text
 - ❤️ My hobbies are watching anime, singing and gaming
 - 😄 Pronouns: she/her or they/them
 
@@ -13,6 +12,7 @@
 <div>
   <a href="https://github.com/laurapessine">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laurapessine&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurapessine&layout=compact&theme=radical"> -->
 </div>
 
 <div style="display: inline_block"><br>
