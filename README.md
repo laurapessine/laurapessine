@@ -3,7 +3,8 @@
 - 👋 Hi, I’m <a href="https://github.com/laurapessine">@laurapessine</a> and I'm 16 years old
 - 👀 I’m interested in data science and AI
 - 🌱 I’m currently learning Java, PHP and MySQL
-- 💡 I've done a scientific research on supervised machine learning applied to health
+- 📖 I've done a scientific research on supervised machine learning applied to health
+- 💡 I am doing another scientific research on natural language processing (NLP)
 - ❤️ My hobbies are watching anime, singing and gaming
 - 😄 Pronouns: any pronoun (preferably she/her)
 
