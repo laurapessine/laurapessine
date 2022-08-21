@@ -12,8 +12,8 @@
 
 <div>
   <a href="https://github.com/laurapessine">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laurapessine&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurapessine&layout=compact&theme=radical"> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laurapessine&show_icons=true&theme=omni&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurapessine&layout=compact&theme=omni&exclude_repo=scientific-research">
 </div>
 
 <div style="display: inline_block"><br>
@@ -26,10 +26,16 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-##
+#
 
 <div>
-  <a href="https://www.youtube.com/channel/UCQncrlvlbd1kGjCgKInUIIw" target="_blank"><img src="https://img.shields.io/badge/YouTube-Ca2a2c?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/laurapessine" target="_blank"><img src="https://img.shields.io/badge/-Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discordapp.com/users/706933445690916916/" target="_blank"><img src="https://img.shields.io/badge/-Discord-586AEA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCQncrlvlbd1kGjCgKInUIIw" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Ca2a2c?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
+  <a href="https://instagram.com/laurapessine" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://discordapp.com/users/706933445690916916/" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-586AEA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a>
 </div>
