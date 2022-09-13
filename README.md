@@ -13,7 +13,7 @@
 <div>
   <a href="https://github.com/laurapessine">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=laurapessine&show_icons=true&theme=omni&include_all_commits=true&count_private=true">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurapessine&layout=compact&theme=omni&exclude_repo=scientific-research">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurapessine&layout=compact&theme=omni&exclude_repo=scientific-research&count_private=true">
 </div>
 
 <div style="display: inline_block"><br>
