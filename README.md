@@ -1,12 +1,10 @@
 <img src="cover-image.png">
 
-- 👋 Hi, I’m <a href="https://github.com/laurapessine">@laurapessine</a> and I'm 16 years old
-- 👀 I’m interested in data science and AI
-- 🌱 I’m currently learning Java, PHP and MySQL
-- 📖 I've done a scientific research on supervised machine learning applied to health
-- 💡 I am doing another scientific research on natural language processing (NLP)
-- ❤️ My hobbies are watching anime, singing and gaming
-- 😄 Pronouns: any pronoun (preferably she/her)
+- 👋 hi, i’m <a href="https://github.com/laurapessine">@laurapessine</a> and i'm 18 years old
+- 👀 i’m interested in data science and AI
+- 🌱 i’m currently learning C++ and C#
+- 📖 i've done a scientific research on supervised machine learning applied to health and another one on natural language processing (NLP)
+- ❤️ my hobbies are watching anime and singing
 
 #
 
@@ -24,18 +22,4 @@
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
-
-#
-
-<div>
-  <a href="https://www.youtube.com/channel/UCQncrlvlbd1kGjCgKInUIIw" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Ca2a2c?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a>
-  <a href="https://instagram.com/laurapessine" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://discordapp.com/users/706933445690916916/" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-586AEA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  </a>
 </div>
