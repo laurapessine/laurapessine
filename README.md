@@ -1,10 +1,8 @@
-<img src="cover-image.png">
-
-- 👋 hi, i’m <a href="https://github.com/laurapessine">@laurapessine</a> and i'm 18 years old
-- 👀 i’m interested in data science and AI
-- 🌱 i’m currently learning C++ and C#
-- 📖 i've done a scientific research on supervised machine learning applied to health and another one on natural language processing (NLP)
-- ❤️ my hobbies are watching anime and singing
+- 👋 18 years old
+- 👀 interested in data science and AI
+- 🌱 currently learning C++ and C#
+- 📖 scientific research on supervised machine learning applied to health
+- 📖 scientific research on natural language processing (NLP)
 
 #
 
