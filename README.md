@@ -1,7 +1,7 @@
-- 👀 interested in data science and AI
+- 👀 interested in data science and artificial intelligence
 - 🌱 currently learning C++ and C#
 - 📖 scientific research on supervised machine learning applied to health
-- 📖 scientific research on natural language processing (NLP)
+- 📖 scientific research on natural language processing
 
 #
 
