@@ -8,7 +8,7 @@
 <div>
   <a href="https://github.com/laurapessine">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=laurapessine&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true&hide_border=true">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurapessine&layout=compact&theme=ambient_gradient&exclude_repo=scientific-research&count_private=true&hide_border=true">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurapessine&layout=compact&theme=ambient_gradient&exclude_repo=scientific-research&count_private=true&hide_border=true&hide_progress=true">
 </div>
 
 <div style="display: inline_block"><br>
