@@ -1,10 +1,15 @@
-- 👀 interested in data science and artificial intelligence
-- 🌱 currently learning C++ and C#
-- 📖 scientific research on supervised machine learning applied to health
-- 📖 scientific research on natural language processing using discourse parsing
+## Hi there, I'm Laura! ( ◜𖥦◝𐙚 )
 
-<a href="https://github.com/laurapessine">
+I'm a B.Sc. Computer Science student and a passionate researcher in AI, focusing on NLP and ML.
+
+💜 Proud member of [Brasileiras em PLN](https://brasileiraspln.com), promoting female diversity in tech and AI.
+
+<p align="left">
+  <a href="https://github.com/laurapessine">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=laurapessine&show_icons=true&theme=tokyonight&count_private=true&hide_border=true">
-</a>
-<br><br>
-<img src="https://skillicons.dev/icons?i=py,html,css,js,java,php,mysql,c,cpp,cs" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,java,php,mysql,c,cpp,cs" />
+</p>
